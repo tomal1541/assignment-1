@@ -52,26 +52,30 @@
 .bangla2{
     max-width: 1200px;
     
-    min-height: 672px;
+    min-height: 1000px;
     margin: 0 auto;
-   
     background-color: aliceblue;
+    word-spacing: 2px;
     text-align: center;
-    padding: 50px;
+    padding: 60px;
 
 }
 .development{
     text-align: center;
     justify-content: space-between;
+    
 }
 .left-content1{
     text-align: left;
     float: left;
     justify-content: space-between;
+    
 
 }
 .bangla-img1{
-    float: right;
+    
+    width: 20%;
+   
 }
 .bangla-btn1{
     background-color:white;
@@ -80,3 +84,6 @@
     max-width: 260px;
     max-height: 70px;
 }
+
+
+
