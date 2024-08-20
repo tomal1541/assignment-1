@@ -8,7 +8,7 @@
     border: 0 auto;
 }
 .resume{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
 }
 .navbar-main{
     
@@ -16,7 +16,7 @@
     justify-content: space-between;
     max-width: 1200px;
     margin: auto;
-    padding: 15px; 
+    padding: 5px; 
 }
 .main-container{
     max-width: 1200px;
@@ -34,7 +34,7 @@
     background-image: url(../assets/Hero-bg.png);
     max-width: 1200px;
     margin: 0 auto;
-    min-height: 472px;
+    min-height: 600px;
 }
 .hero-title{
     text-align: center;
@@ -48,4 +48,35 @@
     max-width: 260px;
     max-height: 70px;
 
+}
+.bangla2{
+    max-width: 1200px;
+    
+    min-height: 672px;
+    margin: 0 auto;
+   
+    background-color: aliceblue;
+    text-align: center;
+    padding: 50px;
+
+}
+.development{
+    text-align: center;
+    justify-content: space-between;
+}
+.left-content1{
+    text-align: left;
+    float: left;
+    justify-content: space-between;
+
+}
+.bangla-img1{
+    float: right;
+}
+.bangla-btn1{
+    background-color:white;
+    color: black;
+    padding: 2px 12px;
+    max-width: 260px;
+    max-height: 70px;
 }
