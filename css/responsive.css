@@ -1,0 +1,10 @@
+@media screen and ( max-width: 800px) {
+    .navbar-main{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and ( max-width: 500px) {
+    
+}
